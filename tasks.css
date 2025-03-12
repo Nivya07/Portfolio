@@ -1,0 +1,19 @@
+h1{
+    font-size: 24px;
+    color: #004080;
+    text-align: center;
+}
+.employee-name{
+    font-weight: bold;
+    color: #333;
+    text-decoration: underline;
+}
+#ceo{
+    font-size: 20px;
+    color: #ff6600;
+    background-color: antiquewhite;
+}
+button{
+    background-color: #00BCBA;
+    color: white;
+}
